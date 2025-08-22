@@ -11,10 +11,18 @@ This repository contains all my Java programs as I follow the legendary **CodeWi
 
 ---
 
-## ✅ Topics Covered So Far:
+## ✅ Topics Covered So Far
 - ✔️ Setting up Java and IntelliJ IDEA
 - ✔️ Writing my first Java programs
 - ✔️ Using Git and GitHub to track my progress
+
+---
+
+## 📂 Project Structure
+- `basics/` → First programs, variables, user input, etc.
+- `menu_driven/` → Menu-driven programs (marks calculator, etc.)
+- `number/` → Programs related to numbers (prime check, factors, digits, etc.)
+- `pattern/` → Pattern printing programs
 
 ---
 
@@ -26,8 +34,16 @@ This repository contains all my Java programs as I follow the legendary **CodeWi
 
 ---
 
-## 🧠 Why This Repo Exists:
+## 🧠 Why This Repo Exists
 To show my journey, track my progress, and remind myself that I’m doing amazing things — one line of code at a time 🫶💪
+
+---
+
+## 🚀 What’s Next
+- ⏭️ Learn about **Object-Oriented Programming (OOP)**
+- ⏭️ Dive into **arrays & strings**
+- ⏭️ Explore **file handling & exceptions**
+- ⏭️ Build small **Java projects** 🚀
 
 ---
 
