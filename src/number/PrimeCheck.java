@@ -1,3 +1,5 @@
+package number;
+
 import java.util.Scanner;
 public class PrimeCheck {
     public static void main(String[] args) {

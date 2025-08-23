@@ -1,4 +1,4 @@
-// TicTacToe.java
+package games;// TicTacToe.java
 import java.util.*;
 
 public class TicTacToe {

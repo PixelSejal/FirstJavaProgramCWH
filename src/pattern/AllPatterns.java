@@ -1,3 +1,5 @@
+package pattern;
+
 public class AllPatterns {
         public static void main(String[] args) {
 

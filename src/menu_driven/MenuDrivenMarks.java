@@ -1,3 +1,5 @@
+package menu_driven;
+
 import java.util.Scanner;
 public class MenuDrivenMarks {
     public static void main (String[] args ){

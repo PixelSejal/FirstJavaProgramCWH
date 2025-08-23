@@ -1,3 +1,5 @@
+package pattern;
+
 import java.util.Scanner;
 public class MonthPrinter {
     public static void main (String[] args){

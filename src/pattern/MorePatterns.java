@@ -1,3 +1,5 @@
+package pattern;
+
 import java.util.Scanner;
 
 class MorePatterns {
