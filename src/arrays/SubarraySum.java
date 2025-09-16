@@ -62,7 +62,7 @@ public class SubarraySum {
         System.out.print("Enter target sum (k): ");
         int k = sc.nextInt();
 
-        Solution sol = new Solution();
+        SubarraySum sol = new SubarraySum();
         int result = sol.subarraySum(nums, k);
 
         System.out.println("Number of subarrays with sum " + k + " = " + result);
